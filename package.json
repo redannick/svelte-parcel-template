@@ -1,0 +1,16 @@
+{
+  "name": "svelte-parcel-template",
+  "version": "1.0.0",
+  "description": "scaffolding template for a sveltejs project built using parceljs",
+  "main": "src/index.html",
+  "author": "redannick",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "parcel-plugin-svelte": "^3.0.0",
+    "svelte": "^3.2.2"
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ]
+}

@@ -1,0 +1,1 @@
+Simply a template getting started project for [svelte.js](https://svelte.dev) using [parcel.js](https://parceljs.org/)
